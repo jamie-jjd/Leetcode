@@ -1,6 +1,5 @@
 class Solution {
 public:
-
   std::vector<int> twoSum (std::vector<int> &nums, int target)
   {
     std::vector<int> index_pair(2);
